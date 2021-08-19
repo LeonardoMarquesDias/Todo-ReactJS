@@ -16,7 +16,7 @@
 </p>
 
 ## 🚀 Sobre o Projeto
-Neste projeto será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
+Este projeto é uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer.
 
 - Adicionar uma nova tarefa
 - Remover uma tarefa
